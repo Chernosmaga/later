@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "jdbc.driverClassName",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.driverClassName."
+    },
+    {
+      "name": "jdbc.url",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.url."
+    },
+    {
+      "name": "jdbc.username",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.username."
+    },
+    {
+      "name": "jdbc.password",
+      "type": "java.lang.String",
+      "description": "Description for jdbc.password."
+    },
+    {
+      "name": "hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect."
+    },
+    {
+      "name": "hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.show_sql."
+    },
+    {
+      "name": "javax.persistence.schema-generation.database.action",
+      "type": "java.lang.String",
+      "description": "Description for javax.persistence.schema-generation.database.action."
+    },
+    {
+      "name": "javax.persistence.schema-generation.create-script-source",
+      "type": "java.lang.String",
+      "description": "Description for javax.persistence.schema-generation.create-script-source."
+    }
+  ] }
